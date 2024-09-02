@@ -1,0 +1,26 @@
+.Datospersonales {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+  }
+
+  p{ 
+    line-height: 2;
+    }
+
+legend{ 
+    bold
+    }
+
+
+
+ 

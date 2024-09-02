@@ -4,9 +4,16 @@ h1{
 
 p{ 
     color: rgb(63, 165, 42); 
-    
+    font-family: Colonna MT;
+    text-decoration:underline;
+    text-transform: uppercase;
+    }
+
+table{
+    border: 3px solid black;
+    width: 300px; height: 10px; 
 }
 
-#table{
-    border: 3px solid black;
+th, td {
+    padding: 20px;
 }
