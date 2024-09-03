@@ -1,0 +1,18 @@
+/*Estilospara el menu de navegacion. */
+
+.navbar{
+    display: flex;/*Se utiliza el flex para distribuir el contenido de manera horizontal*/
+    justify-content: space-between; /*especio entre los elementos a lo largo del eje principal*/
+    align-items: center;/*linea los elementos verticalmente*/
+    /* background-color: #333;  /*color de fondo del div principal */
+    padding: 10px; /*especio entre los elementos*/
+    
+}
+
+/*etiqueta del logo*/
+.logo a{
+
+    color: 
+
+
+}
